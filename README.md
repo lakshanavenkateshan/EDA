@@ -1,4 +1,5 @@
-#Exploratory Data Analysis (EDA)
+
+# Exploratory Data Analysis (EDA)
 
 This repository contains notebooks and practice files focused on **Exploratory Data Analysis (EDA)** using Python libraries like **Pandas, NumPy, and Matplotlib**.  
 The goal is to analyze datasets, visualize patterns, and prepare data for further modeling.
