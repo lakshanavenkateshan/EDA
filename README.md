@@ -53,8 +53,3 @@ The goal is to analyze datasets, visualize patterns, and prepare data for furthe
 
 ---
 
-## **Usage**
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/EDA.git
-
